@@ -6,4 +6,4 @@ UwU Theme is a theme that provides various Pink colors, so it looks cuter.
 
 Preview:
 
-![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU-Theme-Vs-Code@main/preview.png)
+![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview.png)

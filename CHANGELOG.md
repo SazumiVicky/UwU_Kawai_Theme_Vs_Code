@@ -11,3 +11,7 @@
 ## v0.0.3
 
 - I made it look more real
+
+## v0.0.4
+
+- I made it more detailed than the previous version

@@ -7,3 +7,7 @@
 ## v0.0.2
 
 - I made it more optimal than before
+
+## v0.0.3
+
+- I made it look more real

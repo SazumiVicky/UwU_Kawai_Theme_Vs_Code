@@ -7,7 +7,7 @@
 
 # Preview
 
-![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview.png)
+![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview-scd0.png)
 
 <hr>
 

@@ -404,7 +404,7 @@
 		{
 			"scope": "emphasis",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "monospace"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 		{
 			"scope": "markup.italic",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "monospace"
 			}
 		},
 		{

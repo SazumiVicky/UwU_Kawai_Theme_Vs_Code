@@ -1,16 +1,15 @@
 {
-	"name": "uwu-theme",
+	"name": "uwu-theme-kawai",
 	"displayName": "UwU Kawai Theme",
 	"description": "Spoil your code with the UwU theme",
 	"icon": "icon.png",
-	"version": "0.0.1",
-	"publisher": "Sazumi Viki",
+	"version": "0.0.2",
+	"publisher": "sazumiviki",
 	"keywords": [
 		"anime",
 		"color",
 		"pink",
 		"bakanime"
-		"sazumiviki"
 	],
 	"license": "CC0-1.0",
 	"engines": {
@@ -34,9 +33,9 @@
 		]
 	},
 	"__metadata": {
-		"id": "ad13f776-4ac3-4bde-9694-c9d114f6abaa",
-		"publisherId": "e054f80a-50f9-4d80-85c8-6ff87eef6c35",
-		"publisherDisplayName": "Sazumi Viki",
+		"id": "25be9ff4-f994-67b2-9af7-af8e0cdb414a",
+		"publisherId": "sazumiviki",
+		"publisherDisplayName": "sazumiviki",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"updated": false,

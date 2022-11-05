@@ -7,15 +7,7 @@
 
 # Preview
 
-![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview-scd0.png)
-
-<hr>
-
-![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview-scd1.png)
-
-<hr>
-
-![preview.png](https://cdn.jsdelivr.net/gh/SazumiVicky/UwU_Kawai_Theme_Vs_Code@main/preview-scd2.png)
+![preview.png](/sazumiviki-preview.png)
 
 <hr>
 

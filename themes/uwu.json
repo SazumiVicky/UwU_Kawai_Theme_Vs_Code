@@ -69,7 +69,7 @@
 		"textLink.foreground": "#ff4574",
 
 		"activityBar.activeBorder": "#fdc5d3",
-		"activityBar.background": "#AA336A",
+		"activityBar.background": "#fdc5d3",
 		"activityBar.dropBackground": "#fdc5d31f",
 		"activityBar.foreground": "#fdc5d3",
 		"activityBar.inactiveForeground": "#fdc5d366",

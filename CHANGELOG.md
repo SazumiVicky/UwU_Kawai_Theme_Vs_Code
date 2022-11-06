@@ -14,3 +14,6 @@
 
 ## v0.0.5
 * Updating outdated code
+
+## v0.0.6
+* Fix bugs

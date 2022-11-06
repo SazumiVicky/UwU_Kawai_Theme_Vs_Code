@@ -3,7 +3,7 @@
 	"displayName": "UwU Kawai Theme",
 	"description": "Spoil your code with the UwU theme",
 	"icon": "icon.png",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "sazumiviki",
 	"keywords": [
 		"anime",
@@ -38,9 +38,9 @@
 		"publisherDisplayName": "sazumiviki",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
-		"updated": false,
+		"updated": true,
 		"isPreReleaseVersion": false,
-		"installedTimestamp": 1667375607370,
+		"installedTimestamp": 1667617294784,
 		"preRelease": false
 	}
 }

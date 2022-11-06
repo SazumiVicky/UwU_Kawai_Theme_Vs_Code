@@ -7,7 +7,7 @@
 
 # Preview
 
-![preview.png](/sazumiviki-preview.png)
+![preview.png](/sazumiviki.preview.png)
 
 <hr>
 
